@@ -1,33 +1,25 @@
-📊 Marketing Campaign Performance Analysis
+# 📊 Marketing Campaign Performance Analysis
 
-This project dives into the performance of digital marketing campaigns using a combination of MySQL, Excel, and Tableau. It showcases the full cycle of data analysis  from raw data exploration to final dashboard creation with the goal of uncovering actionable marketing insights.
+A complete data analytics project analyzing digital marketing campaign performance using MySQL, Excel, and Tableau.
 
-🛠️ Tools & Technologies
-MySQL – Used for writing queries to clean, transform, and analyze campaign data.
+## 🔧 Tools Used
+- **MySQL** – For data cleaning & analysis
+- **Excel** – For basic cleaning & preparation
+- **Tableau** – For dashboard visualization
 
-Excel – Assisted in preliminary data cleanup and formatting.
+## 📁 Files Included
+- `marketing_campaign.sql` – SQL schema & queries
+- `marketing_data.xlsx` – Raw and cleaned data
+- `dashboard.twbx` – Tableau packaged workbook
+- `screenshots/` – Visual of dashboard
 
-Tableau – Built interactive visualizations to interpret marketing KPIs.
+## 📌 Key Insights
+- Campaign C010 yielded the highest ROI (220%+)
+- Social Media generated the most impressions
+- Paid Ads had the highest revenue conversion rate
 
-📂 Project Files
-marketing_campaign.sql – All SQL scripts including schema setup and analysis queries.
-
-marketing_data.xlsx – The structured dataset used for analysis and visualization.
-
-dashboard.twbx – Tableau workbook containing interactive dashboards.
-
-screenshots/ – A preview image of the final dashboard.
-
-🔍 Insights Derived
-Campaign C010 achieved the best return on investment, crossing 220%.
-
-Social Media stood out with the highest number of impressions.
-
-Paid Ads showed strong performance in terms of revenue-to-cost efficiency.
-
-🖼️ Dashboard Snapshot
-
+## 📉 Dashboard Preview
 ![Dashboard Preview](screenshots/dashboard_view.png)
 
-💬 Let’s Connect
+## 📬 Contact
 Riya Bisht | riiyabisht@gmail.com
